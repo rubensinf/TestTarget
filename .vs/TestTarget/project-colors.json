@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba528d73-71b4-4ff9-b8ce-dff76cbcbc2c": {
+      "ProjectGuid": "ba528d73-71b4-4ff9-b8ce-dff76cbcbc2c",
+      "DisplayName": "TestTargetCrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
